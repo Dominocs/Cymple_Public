@@ -1,1 +1,45 @@
+Privacy Policy for Cymple Link
 
+Effective Date: [填写今天的日期, 例如: November 25, 2025]
+
+Thank you for using Cymple Link (the "App"). This Privacy Policy describes how we handle information when you use our application.
+
+1. Introduction
+
+Cymple Link is a utility tool designed to read data streams from an external USB device connected to your Meta Quest headset and transmit this data exclusively across your local area network (LAN) to your personal computer (PC).
+
+2. Information We DO NOT Collect
+
+We want to be crystal clear: **We do not collect, store, view, or transmit any of your personal information or data to our servers or any third-party services.**
+
+The App's sole function is to act as a data bridge within your private local network. All data processed by the App has the following characteristics:
+
+*   **Locally Confined:** The data read from the USB device **never leaves your local network**. It is sent directly from your Quest headset to your PC over your Wi-Fi connection.
+*   **No Developer Access:** We, the developers of Cymple Link, do not have any access to the data stream being transmitted. The transmission is entirely peer-to-peer between your own devices.
+*   **No Data Storage:** The App does not store any of the data from the USB device on the Quest headset after it has been transmitted. It operates as a real-time stream, and data is not logged or saved by the App itself.
+
+3. How We Use Information
+
+Since we do not collect any information, we do not use it for any purpose.
+
+4. Data Sharing and Disclosure
+
+Since we do not collect or store your data, we do not share it with any third parties.
+
+5. Data Security
+
+The security of the data transmission is confined to the security of your own local network (Wi-Fi). We recommend using a secure, password-protected Wi-Fi network to ensure the data transmitted between your headset and PC remains private.
+
+6. Children's Privacy
+
+Our App does not knowingly collect any personally identifiable information from children under the age of 13. Given that we do not collect any data at all, we are in full compliance with children's privacy regulations.
+
+7. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
+
+8. Contact Us
+
+If you have any questions about this Privacy Policy, you can contact us:
+
+*   By email: [填写您的联系邮箱地址]
